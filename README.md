@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Samyuktha!</h1>
+<h3 align="center">AI/ML Enthusiast | Data Scientist | Full-Stack Developer</h3>
 
-<!--
-**Samu2304/Samu2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,mongodb,tensorflow,docker,git,firebase" height="60" alt="tech stack" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/samyuktha-sreenivasan-1b30a0257/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://github.com/SamyukthaSreenivasan">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SamyukthaSreenivasan&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamyukthaSreenivasan&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<p align="center">
+🚀 <b>Projects:</b> Idiopathic Pulmonary Fibrosis Prediction | Crop Disease Detection | StudentAssist (AI-Powered Learning Platform)
+</p>
+
+<p align="center">
+🏆 <b>Achievements:</b> 1st Place National Hackathon | Winner Web Showdown | 3rd Place Data Note | Research Paper Presenter
+</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamyukthaSreenivasan/SamyukthaSreenivasan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamyukthaSreenivasan/SamyukthaSreenivasan/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/SamyukthaSreenivasan/SamyukthaSreenivasan/output/pacman-contribution-graph.svg">
+</picture>
